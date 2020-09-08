@@ -1,0 +1,20 @@
+{
+    "name": "bahman7/contact",
+    "description": "This is command for save and send email to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bahman Alidadi",
+            "email": "bahman.alidadi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload-dev": {
+        "psr-4": {
+            "Bahman7\\Contact\\": "src/"
+        }
+    }
+}
