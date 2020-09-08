@@ -16,5 +16,13 @@
         "psr-4": {
             "Bahman7\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bahman7\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
+
 }
